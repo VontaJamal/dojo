@@ -57,4 +57,6 @@ Every lesson ends with something working. No dead theory. No "imagine if." You b
 
 ## Protected by the [Seven Shadows](https://github.com/VontaJamal/seven-shadow-system)
 
+[Explore the Vault →](https://github.com/VontaJamal/shadow-vault)
+
 Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.
