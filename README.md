@@ -4,7 +4,7 @@
 
 Walk in not knowing how to coordinate AI agents. Walk out building systems that run autonomously. The Hyperbolic Time Chamber.
 
-`🌀 Materializing...`
+`🔮 Coming Soon`
 
 ---
 
