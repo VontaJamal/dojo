@@ -59,4 +59,4 @@ Every lesson ends with something working. No dead theory. No "imagine if." You b
 
 [Explore the Vault →](https://github.com/VontaJamal/shadow-vault)
 
-Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.
+🏴‍☠️ [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.
