@@ -52,3 +52,9 @@ Every lesson ends with something working. No dead theory. No "imagine if." You b
 *Part of the [Shadow Dominion](https://github.com/VontaJamal) ecosystem.*
 
 *"The training arc is where legends are made."*
+
+---
+
+## Protected by the [Seven Shadows](https://github.com/VontaJamal/seven-shadow-system)
+
+Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.
